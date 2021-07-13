@@ -7,7 +7,7 @@
  
  <div>
   <a href="https://github.com/rakelmm/rakelmm.git"> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rakelmm&show_icons=true&theme=dracula&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rakelmm&show_icons=true&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakelmm&layout=compact&langs_count=20&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
