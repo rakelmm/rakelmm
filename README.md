@@ -8,7 +8,7 @@
  <div>
   <a href="https://github.com/rakelmm/rakelmm.git"> 
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=rakelmm&show_icons=true&theme=dracula"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakelmm&layout=compact&langs_count=20&theme=dracula"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakelmm&layout=compact&langs_count=30&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rakel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
