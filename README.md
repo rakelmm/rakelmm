@@ -4,7 +4,7 @@ Hi, welcome! 👋
 - 👩🏻‍💻 I’m currently learning HTML, CSS, Javascript, TypeScript, Node, Express, noSQL, React, hooks, Redux, Design Patterns
 - 📫 How to reach me: rakelmoreiramendonca@gmail.com
 
- 
+ ##
  <div>
   <a href="https://github.com/rakelmm/rakelmm.git"> 
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rakelmm&show_icons=true&theme=dracula"/>
