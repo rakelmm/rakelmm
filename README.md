@@ -1,7 +1,7 @@
  <img align="left" alt="Rakel-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
 Hi, welcome! 👋
 
-- 👩🏻‍💻 I’m currently learning HTML, CSS, Javascript, TypeScript, Node, Express, noSQL, React, hooks, Redux, Design Patterns
+- 👩🏻‍💻 I’m currently learning HTML, CSS, Javascript, TypeScript, Node, Express, noSQL, React, hooks, Redux, Design Patterns e GO
 - 📫 How to reach me: rakelmoreiramendonca@gmail.com
 
  ##
@@ -16,6 +16,7 @@ Hi, welcome! 👋
   <img align="center" alt="Rakel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rakel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rakel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rakel-GO" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
   
 </div>
   
