@@ -1,10 +1,13 @@
  <img align="left" alt="Rakel-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
+
+```
 Hi, welcome! 👋
 
 - 👩🏻‍💻 I’m currently learning HTML, CSS, Javascript, TypeScript, Node.js, React.js, Next.js e GO
 - 📫 How to reach me: rakelmoreiramendonca@gmail.com
-
- ##
+```
+ ***
+ <p></p>
  <div>
   <a href="https://github.com/rakelmm/rakelmm.git"> 
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rakelmm&show_icons=true&theme=dracula"/>
