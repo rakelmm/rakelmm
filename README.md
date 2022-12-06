@@ -1,4 +1,8 @@
- <img align="left" alt="Rakel-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
+<!--  <img align="left" alt="Rakel-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif"> -->
+ <p align="left">
+<img align="right" width=200px alt="urso" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+</P>
+<br>
 
 ```
 Hi, welcome! 👋
@@ -12,6 +16,7 @@ Hi, welcome! 👋
   <a href="https://github.com/rakelmm/rakelmm.git"> 
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rakelmm&show_icons=true&theme=dracula"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakelmm&layout=compact&langs_count=30&theme=dracula"/>
+   
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rakel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -26,4 +31,6 @@ Hi, welcome! 👋
    <img align="center" alt="Rakel-SASS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
   
 </div>
+ 
+ 
   
